@@ -1,0 +1,29 @@
+Category;AssetMetrixType
+Balanced;VC
+Buyout;BO
+Co-investment;raus
+Co-Investment Multi-Manager;raus
+Direct Secondaries;raus
+Distressed Debt;DD
+Early Stage;VC
+Early Stage: Seed;VC
+Early Stage: Start-up;VC
+Expansion / Late Stage;VC
+Fund of Funds;FOF
+Growth;BO
+Infrastructure;Infrastructure
+Infrastructure Fund of Funds;Infrastructure
+Infrastructure Secondaries;Infrastructure
+Mezzanine;MEZZ
+Natural Resources;NatRes
+Real Asset Fund of Funds;raus
+Real Estate;RE
+Real Estate Co-Investment;RE
+Real Estate Fund of Funds;RE
+Real Estate Secondaries;RE
+Secondaries;SEC
+Special Situations;DD
+Timber;NatRes
+Turnaround;DD
+Venture (General);VC
+Venture Debt;VC
